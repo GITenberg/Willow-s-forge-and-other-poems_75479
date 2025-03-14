@@ -1,0 +1,34 @@
+_repo: Willow-s-forge-and-other-poems_75479
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kaye-Smith, Sheila
+    alias: Fry, Sheila Kaye-Smith
+    birthdate: 1887
+    deathdate: 1956
+    gutenberg_agent_id: '6284'
+    url: http://www.gutenberg.org/2009/agents/6284
+    wikipedia: https://en.wikipedia.org/wiki/Sheila_Kaye-Smith
+description: ''
+gutenberg_issued: '2025-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75479'
+  lccn: '24002867'
+language: en
+pgterms:marc904: https://archive.org/details/willowsforgeothe00kayeuoft/page/n5/mode/2up
+pgterms:marc905: 20230720165038kayesmith
+pgterms:marc906: '1914'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aLondon :$bErskine Macdonald, $c1914.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 20th century'
+- !lcc 'PR'
+- GITenberg
+title: Willow's forge, and other poems
+url: http://www.gutenberg.org/ebooks/75479
